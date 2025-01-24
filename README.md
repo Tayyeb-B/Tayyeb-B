@@ -9,7 +9,7 @@ Backend: ASP.NET Core, Entity Framework, SQL Server
 Frontend: Angular, Angular Material, Bootstrap
 Tools & Platforms: Visual Studio, VS Code, SQL
 
-🌱 Currently Learning
+🌱 Currently Working
 
 I'm always looking to sharpen my skills and explore emerging technologies like Microservices Architecture and Cloud-based solutions.
 
